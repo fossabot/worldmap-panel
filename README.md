@@ -3,6 +3,7 @@
 The Worldmap Panel is a tile map of the world that can be overlaid with circles representing data points from a query. It can be used with time series metrics, with geohash data from Elasticsearch or data in the Table format.
 
 ![Worldmap](https://raw.githubusercontent.com/grafana/worldmap-panel/54f83cfdc7339fee02df00933422c35630677330/src/images/worldmap-world.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanatolyza%2Fworldmap-panel.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanatolyza%2Fworldmap-panel?ref=badge_shield)
 
 ## How The Worldmap Works (Theory and Examples)
 
@@ -280,3 +281,7 @@ The threshold field also accepts 2 or more comma-separated values. For example, 
 ### CHANGELOG
 
 The latest changes can be found here: [CHANGELOG.md](https://github.com/grafana/worldmap-panel/blob/master/CHANGELOG.md)
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fanatolyza%2Fworldmap-panel.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fanatolyza%2Fworldmap-panel?ref=badge_large)
